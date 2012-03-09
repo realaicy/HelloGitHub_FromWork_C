@@ -16,6 +16,7 @@ public class HelloGitHub {
 
 		System.out.println("Hello Github I am Xudong Liu 刘旭东________________EclipseINIT");
 		System.out.println("Edit By Eclipse________________Eclipse1");
+		System.out.println("Edit By Eclipse________________Eclipse2");
 
 	}
 
